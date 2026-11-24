@@ -1,0 +1,11 @@
+Feature,Type
+Tuition fees up to date,Categorical
+Course,Categorical
+Curricular units 2nd sem (approved),Numerical
+Curricular units 1st sem (evaluations),Numerical
+Curricular units 1st sem (approved),Numerical
+Curricular units 2nd sem (enrolled),Numerical
+Previous qualification (grade),Numerical
+Admission grade,Numerical
+Curricular units 2nd sem (credited),Numerical
+Curricular units 2nd sem (grade),Numerical
